@@ -1,9 +1,13 @@
 # Ubiquitous
 Present, appearing or found everywhere.
 
+Match 3 game -> Puzzle
+Co-Op
+Cradle of Egypt - Online
+
 Destroying Angel Main Character -> Women
 Goal is to clean up world
-Angel recieved Liscense from God to do clean up work
+Angel received License from God to do clean up work
 
 (How many people you can kill) Clean up the world
 
@@ -14,15 +18,15 @@ Sea Turtles
 Tigers
 Pandas
 Penguins
-Giraff
-Rihnos
+Giraffe
+Rhinos
 Elephants
 
 {Allies} 
-Minions (volcanos and Tornatoes)
+Minions (volcano and Tornadoes)
 
 {Enemies}
-Poluters ( Monster Trucks Diesel Fuel ( Black Smoke ) )
+Polluters ( Monster Trucks Diesel Fuel ( Black Smoke ) )
 Sludgers ( )
 Litterers ( )
 Freaking Freaks
